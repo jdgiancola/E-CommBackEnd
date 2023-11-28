@@ -55,7 +55,7 @@ DELETE /api/categories/:id - Delete a category.
 
 Demo
 A walkthrough video demonstrating the application can be found here.
-https://drive.google.com/file/d/1V5Wqiyr84gyyEzkqOclT2mHN9vgmiUsF/view
+[https://drive.google.com/file/d/1V5Wqiyr84gyyEzkqOclT2mHN9vgmiUsF/view]
 
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
